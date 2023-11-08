@@ -29,3 +29,6 @@ $$ where \ \lambda \rightarrow Lagrange\ multiplier $$
 > For small and moderate-sized problems, DCM is beneficial.
 >
 > For relatively large problem size, QIA outperform DCM after a certain value 'n'.
+>
+## Acknowledgment:
+[Quantum-inspired algorithms in practice by [Arrazolla, ..., Llyod 2020]](https://arxiv.org/pdf/1905.10415.pdf)
