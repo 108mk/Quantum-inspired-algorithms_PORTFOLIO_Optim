@@ -22,7 +22,7 @@ $$ where \ \lambda \rightarrow Lagrange\ multiplier $$
 ## We solve it in two ways:
 > Quantum-inspired algorithm (QIA): a sampling-based technique to approximate solution; runtime polylogarithmic in problem size
 >
-> Direct classical method DCM(): Analytical solution; runtime is linear in problem size
+> Direct classical method (DCM): Analytical solution; runtime is linear in problem size
 >
 
 ## Result: 
